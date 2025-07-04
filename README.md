@@ -14,6 +14,6 @@ M5Unifiedで制作しましたので、おそらくcore2以外のM5Stack社製�
 下の画像をクリックするとYouTubeで動作をご覧いただけます。
 
 
-
-[![3D Sphere Pong Wars (M5Stack Core2)](https://img.youtube.com/vi/HJYGvkFOTdE/0.jpg)](https://www.youtube.com/watch?v=HJYGvkFOTdE)
-
+<a href="https://www.youtube.com/watch?v=HJYGvkFOTdE" target="_blank">
+  <img src="https://img.youtube.com/vi/HJYGvkFOTdE/0.jpg`：" alt="3D Sphere Pong Wars (M5Stack Core2)">
+</a>
