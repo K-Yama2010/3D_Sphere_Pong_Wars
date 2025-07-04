@@ -3,4 +3,5 @@ M5Stack　core2 用の「3D_Sphere_Pong_Wars」です。
 
 M5Unifiedで制作しましたので、おそらくcore2以外のM5Stack社製品でも動くと思います。coreS3やTAB5だともっとFPSあげたりサイズを大きくできると思います。
 
-<iframe width="450" height="253" src="https://www.youtube.com/embed/HJYGvkFOTdE" title="3D Sphere Pong Wars (M5Stack Core2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![3D Sphere Pong Wars (M5Stack Core2)](https://img.youtube.com/vi/HDY6vkFGtdE/0.jpg)](https://www.youtube.com/watch?v=HDY6vkFGtdE)
+
